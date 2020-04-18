@@ -46,6 +46,10 @@ $ python manage.py runserver
 
 You can now access your server at `http://localhost:5000`
 
+### CSV Import
+
+Please import postman collection into Postman and use the "Import CSV Request" to import CSV. 
+
 Happy to hear your thoughts and reviews! :)
 
 
